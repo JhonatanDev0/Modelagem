@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2020-09-30T22:51:45.220Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="3p6vrUzDhyUmYx1dXwpV" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-30T23:06:24.257Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="xmsDhLAr5OeMb1aiO8g_" version="13.7.7" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1221" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ncpH-k2sP4cnWI0i4Cxd-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ncpH-k2sP4cnWI0i4Cxd-1" target="ncpH-k2sP4cnWI0i4Cxd-6">
+        <mxCell id="ncpH-k2sP4cnWI0i4Cxd-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ncpH-k2sP4cnWI0i4Cxd-1" target="ncpH-k2sP4cnWI0i4Cxd-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ncpH-k2sP4cnWI0i4Cxd-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ncpH-k2sP4cnWI0i4Cxd-1" target="ncpH-k2sP4cnWI0i4Cxd-7">
@@ -23,6 +23,9 @@
           <mxGeometry x="240" y="80" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ncpH-k2sP4cnWI0i4Cxd-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ncpH-k2sP4cnWI0i4Cxd-7" target="ncpH-k2sP4cnWI0i4Cxd-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ncpH-k2sP4cnWI0i4Cxd-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ncpH-k2sP4cnWI0i4Cxd-7" target="ncpH-k2sP4cnWI0i4Cxd-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ncpH-k2sP4cnWI0i4Cxd-7" value="Livros" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
